@@ -295,6 +295,8 @@ MonoBehaviour:
   audioSource: {fileID: 232944685}
   firstAudio: {fileID: 8300000, guid: 5e4dd28d3d00207499001a57e4844cae, type: 3}
   secondAudio: {fileID: 8300000, guid: dbe9202c43449a847bf5867839306c8b, type: 3}
+  firstVideo: {fileID: 32900000, guid: d91f82d19220eda429a02b1695eae822, type: 3}
+  secondVideo: {fileID: 32900000, guid: d91f82d19220eda429a02b1695eae822, type: 3}
 --- !u!4 &232944684
 Transform:
   m_ObjectHideFlags: 0
@@ -972,7 +974,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -27.238312, y: -27.3}
+  m_AnchoredPosition: {x: -27.238281, y: -27.299988}
   m_SizeDelta: {x: 95, y: 61.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1821120100
